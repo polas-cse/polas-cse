@@ -43,7 +43,7 @@
 
 ### 🧬 Who Am I?
 
-I'm a **Mid-Level Software Engineer** from 🇧🇩 **Dhaka, Bangladesh** with **4.4+ years** of hands-on experience designing and delivering **scalable, production-grade enterprise systems**.
+I'm a **Mid-Level Software Engineer** from 🇧🇩 **Dhaka, Bangladesh** with **4.7+ years** of hands-on experience designing and delivering **scalable, production-grade enterprise systems**.
 
 My core expertise lies in **Java backend engineering** — crafting robust APIs with Spring Boot, architecting microservices, and owning the full DevOps lifecycle from development to production deployment.
 
@@ -69,7 +69,7 @@ I've contributed to **7 live commercial products** across industries including *
 
 | | |
 |---|---|
-| 💼 **Experience** | 4.4+ Years |
+| 💼 **Experience** | 4.7+ Years |
 | 🏢 **Current Role** | Software Engineer |
 | 🏗️ **Products Shipped** | 7 Enterprise Apps |
 | 🌐 **Portfolio** | [polashossain.com](https://polashossain.com) |
