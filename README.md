@@ -4,7 +4,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=650&lines=4.7%2B+Years+of+Software+Engineering;Backend+%7C+Spring+Boot+%7C+Microservices;DevOps+%7C+Docker+%7C+CI%2FCD+Pipeline;Building+Scalable+Enterprise+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=650&lines=4.9%2B+Years+of+Software+Engineering;Backend+%7C+Spring+Boot+%7C+Microservices;DevOps+%7C+Docker+%7C+CI%2FCD+Pipeline;Building+Scalable+Enterprise+Solutions" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -43,7 +43,7 @@
 
 ### 🧬 Who Am I?
 
-I'm a **Mid-Level Software Engineer** from 🇧🇩 **Dhaka, Bangladesh** with **4.7+ years** of hands-on experience designing and delivering **scalable, production-grade enterprise systems**.
+I'm a **Mid-Level Software Engineer** from 🇧🇩 **Dhaka, Bangladesh** with **4.9+ years** of hands-on experience designing and delivering **scalable, production-grade enterprise systems**.
 
 My core expertise lies in **Java backend engineering** — crafting robust APIs with Spring Boot, architecting microservices, and owning the full DevOps lifecycle from development to production deployment.
 
@@ -69,7 +69,7 @@ I've contributed to **7 live commercial products** across industries including *
 
 | | |
 |---|---|
-| 💼 **Experience** | 4.7+ Years |
+| 💼 **Experience** | 4.9+ Years |
 | 🏢 **Current Role** | Software Engineer |
 | 🏗️ **Products Shipped** | 7 Enterprise Apps |
 | 🌐 **Portfolio** | [polashossain.com](https://polashossain.com) |
